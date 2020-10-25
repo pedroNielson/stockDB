@@ -4,4 +4,5 @@
 -> Linguagem utilizada: SQL
 <br>
 -> Diagrama das tabelas do banco: 
-<br>
+<br> <br>
+![](Images/tables_diagram.PNG)
